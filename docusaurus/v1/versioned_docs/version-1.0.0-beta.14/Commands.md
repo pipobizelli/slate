@@ -13,6 +13,12 @@ The following is a list of all available API commands for Slate Tools:
 - [start](#start)
 - [zip](#zip)
 
+Tip: Remeber install slate-tools to run this commands
+
+```bash
+npm i -g @shopify/slate-tools
+```
+
 ## build
 
 Builds a production-ready version of the theme by compiling the files into the `dist` folder.
